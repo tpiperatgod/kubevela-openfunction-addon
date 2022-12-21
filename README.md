@@ -1,2 +1,3 @@
-# kubevela-openfunction-addon
-OpenFunction addon for KubeVela
+# openfunction
+
+This is an addon template. Check how to build your own addon: https://kubevela.net/docs/platform-engineers/addon/intro

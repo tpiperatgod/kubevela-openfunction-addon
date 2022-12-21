@@ -1,0 +1,12 @@
+description: An addon for KubeVela.
+icon: ""
+invisible: false
+name: openfunction
+tags:
+- openfunction
+- serverless
+version: 0.8.0
+url: https://github.com/OpenFunction/OpenFunction
+system:
+  vela: ">=v1.4.0"
+  kubernetes: ">=1.19.0-0"
